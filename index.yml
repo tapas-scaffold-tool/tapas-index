@@ -1,2 +1,3 @@
 tapa: github:tapas-scaffold-tool/tapa-tapa
 py-lib: github:tapas-scaffold-tool/py-lib
+dogebuild-c:  github:tapas-scaffold-tool/dogebuild-c-tapa
