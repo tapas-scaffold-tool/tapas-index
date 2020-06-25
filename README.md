@@ -15,3 +15,7 @@ To add your tapa add link and short description to corresponding section below a
 ## C/C++
 
 - `dogebuild-c` - template for [dogebuild](https://github.com/dogebuild/dogebuild) C project using [dogebuild-c plugin](https://github.com/dogebuild/dogebuild-c) ([repository](https://github.com/tapas-scaffold-tool/dogebuild-c-tapa))
+
+## Dogebuild
+
+- `dogebuild-plugin` - template for [dogebuild](https://github.com/dogebuild/dogebuild) plugin
