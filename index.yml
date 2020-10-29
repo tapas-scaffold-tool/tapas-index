@@ -1,4 +1,15 @@
-tapa: github:tapas-scaffold-tool/tapa-tapa
-py-lib: github:tapas-scaffold-tool/py-lib
-dogebuild-c: github:tapas-scaffold-tool/dogebuild-c-tapa
-dogebuild-plugin: github:tapas-scaffold-tool/dogebuild-plugin-tapa
+tapa:
+  repository: github:tapas-scaffold-tool/tapa-tapa
+  description: Tapa for tapa
+
+py-lib:
+  repository: github:tapas-scaffold-tool/py-lib
+  description: Simple python library
+
+dogebuild-c:
+  repository: github:tapas-scaffold-tool/dogebuild-c-tapa
+  description: C/C++ app with dogebuild
+
+dogebuild-plugin:
+  repository: github:tapas-scaffold-tool/dogebuild-plugin-tapa
+  description: Dogebuild plugin
