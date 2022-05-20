@@ -14,6 +14,6 @@ dogebuild-plugin:
   repository: github:tapas-scaffold-tool/dogebuild-plugin-tapa
   description: Dogebuild plugin
 
-dogebuild:
+python-telegram-bot:
   repository: github:tapas-scaffold-tool/python-telegram-bot
   description: Telegram bot with cron machine template
