@@ -1,1 +1,3 @@
-# Index purged due to interface changes before 1.0.0 release
+tapa:
+  repository: github:tapas-scaffold-tool/tapa-tapa
+  description: Tapa (template) for generating another tapas (templates)
